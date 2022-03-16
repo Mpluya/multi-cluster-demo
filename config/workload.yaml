@@ -19,7 +19,7 @@ spec:
   - name: gitops_user_name
     value: gitops_bot
   - name: gitops_user_email
-      value: "gitops_bot@example.com"
+    value: "gitops_bot@example.com"
   source:
     git:
       url: https://github.com/sample-accelerators/multi-cluster-demo
