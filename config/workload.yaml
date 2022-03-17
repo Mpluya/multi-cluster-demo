@@ -11,7 +11,7 @@ spec:
     value:
       autoscaling.knative.dev/minScale: "1"
   - name: gitops_repository
-    value: git@github.com/Mpluya/config-multi-cluster-demo
+    value: git@github.com:Mpluya/config-multi-cluster-demo.git
   - name: gitops_branch
     value: main
   - name: gitops_commit_message
